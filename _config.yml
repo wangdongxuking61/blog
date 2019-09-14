@@ -6,7 +6,7 @@ email: 912385457@qq.com
 description: "这里是 王东旭 的个人博客，与你一起发现更大的世界"
 keyword: "博客, 个人网站"
 url: "https://wangdongxuking61.github.io"              # your host, for absolute URL
-baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
