@@ -25,6 +25,12 @@ layout: default
                     {% include multilingual-sel.html %}
                 {% endif %}
 
+                {% if page.toc==true %}
+                  <aside class="toc">
+                    {% include toc.html html=content %}
+                  </aside>
+                {% endif %}
+
 				{{ content }}
 
                 <hr style="visibility: hidden;">
