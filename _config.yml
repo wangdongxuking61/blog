@@ -50,6 +50,7 @@ plugins: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+  toc_levels:      '1..6'
   syntax_highlighter_opts:
     span:
       line_numbers: false
