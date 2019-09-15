@@ -2,7 +2,6 @@
 layout:     post
 title:      "mininet ryu"
 subtitle:   ""
-date:       2018-09-01 00:00:00
 author:     "wangdongxu"
 header-img: "img/about-bg.jpg"
 tags:
